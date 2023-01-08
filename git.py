@@ -7,4 +7,5 @@ print (c+a)
 print(a+b+c)
 print(ab-c)
 print(ab+ca)
-print(abc
+print(abc)
+print(ab+ba)
